@@ -1,6 +1,6 @@
 package Bundle::ePortal;
 
-$VERSION = 0.07;
+$VERSION = 0.08;
 
 1;
 
@@ -64,14 +64,6 @@ Unicode::String
 URI
 
 ePortal::Server
-
-ePortal::App::OffPhones
-
-ePortal::App::MsgForum
-
-ePortal::App::Organizer
-
-ePortal::App::Diskoteka
 
 
 =head1 DESCRIPTION
