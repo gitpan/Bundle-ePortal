@@ -1,5 +1,8 @@
 Revision history for Perl module Bundle::ePortal
 
+0.03  2003-05-20
+    - removed mod_perl due to need of apache sources for compilation
+
 0.02  2003-05-16
     - removed Convert::Cyrillic
 

@@ -1,6 +1,6 @@
 package Bundle::ePortal;
 
-$VERSION = 0.02;
+$VERSION = 0.03;
 
 1;
 
@@ -23,15 +23,7 @@ C<perl -MCPAN -e 'install Bundle::ePortal'>
 
 =head1 CONTENTS
 
-Apache
-
-Apache::Constants
-
-Apache::Cookie
-
 Apache::Request
-
-Apache::Util
 
 Bundle::HTML::Mason
 
@@ -60,8 +52,6 @@ Mail::Sendmail
 MIME::Base64
 
 MD5
-
-mod_perl
 
 Net::LDAP
 
