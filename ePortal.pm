@@ -1,6 +1,6 @@
 package Bundle::ePortal;
 
-$VERSION = 0.08;
+$VERSION = 0.09;
 
 1;
 
@@ -52,6 +52,8 @@ MIME::Base64
 Net::LDAP
 
 Params::Validate
+
+Spreadsheet::WriteExcel
 
 Storable
 
