@@ -1,6 +1,6 @@
 package Bundle::ePortal;
 
-$VERSION = 0.01;
+$VERSION = 0.02;
 
 1;
 
@@ -36,8 +36,6 @@ Apache::Util
 Bundle::HTML::Mason
 
 CGI
-
-Convert::Cyrillic
 
 Data::Dumper
 
