@@ -1,5 +1,9 @@
 Revision history for Perl module Bundle::ePortal
 
+0.04  2003-05-20
+    - removed File::Basename. This is standard module
+    - Bundle::HTML::Mason replaced with HTML::Mason
+
 0.03  2003-05-20
     - removed mod_perl due to need of apache sources for compilation
 

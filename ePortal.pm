@@ -1,6 +1,6 @@
 package Bundle::ePortal;
 
-$VERSION = 0.03;
+$VERSION = 0.04;
 
 1;
 
@@ -25,8 +25,6 @@ C<perl -MCPAN -e 'install Bundle::ePortal'>
 
 Apache::Request
 
-Bundle::HTML::Mason
-
 CGI
 
 Data::Dumper
@@ -41,7 +39,7 @@ Digest::MD5
 
 Error
 
-File::Basename
+HTML::Mason
 
 Image::Size
 
